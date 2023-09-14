@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MiddleTriggerScript.cs">
+    <Files>
+      <File FileName="Assets/PipeBehaviorScript.cs" Line="23" Column="39" />
+      <File FileName="Assets/BirdScript.cs" />
+      <File FileName="Assets/PipeSpawnScript.cs" />
+      <File FileName="Assets/LogicScript.cs" />
+      <File FileName="Assets/MiddleTriggerScript.cs" Line="26" Column="65" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="My project (1)" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="PipeBehaviorScript.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5d09aa59-59f8-48ea-aa8c-a88235d4df9c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
